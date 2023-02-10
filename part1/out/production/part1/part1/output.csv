@@ -1,0 +1,44 @@
+ ------- part1.Competitor Level Scores Overall:  --------
+part1.Competitor number 100, name Keith John, aged 28. Keith is a novice and received these scores: [5, 4, 5, 4, 3]This gives him an overall score of 4.2.
+part1.Competitor number 101, name Jane Macdonald, aged 22. Jane is a novice and received these scores: [3, 3, 3, 2, 4]This gives him an overall score of 3.0.
+part1.Competitor number 102, name Michael Brown, aged 30. Michael is a intermediate and received these scores: [4, 4, 4, 4, 4]This gives him an overall score of 12.0.
+part1.Competitor number 103, name David Smith, aged 28. David is a intermediate and received these scores: [5, 5, 5, 5, 5]This gives him an overall score of 15.0.
+part1.Competitor number 104, name Rachel Johnson, aged 25. Rachel is a expert and received these scores: [3, 3, 3, 3, 3]This gives him an overall score of 15.0.
+part1.Competitor number 105, name John Williams, aged 27. John is a expert and received these scores: [4, 4, 4, 4, 4]This gives him an overall score of 20.0.
+part1.Competitor number 106, name Karen Harding, aged 29. Karen is a expert and received these scores: [5, 5, 5, 4, 4]This gives him an overall score of 23.0.
+part1.Competitor number 107, name Sarah Green, aged 24. Sarah is a expert and received these scores: [4, 4, 5, 4, 3]This gives him an overall score of 20.0.
+part1.Competitor number 108, name Michael Davis, aged 26. Michael is a expert and received these scores: [5, 5, 5, 5, 5]This gives him an overall score of 25.0.
+part1.Competitor number 109, name Susan Miller, aged 28. Susan is a expert and received these scores: [4, 4, 4, 4, 4]This gives him an overall score of 20.0.
+part1.Competitor number 110, name Brian Jones, aged 29. Brian is a novice and received these scores: [4, 1, 5, 3, 1]This gives him an overall score of 2.8.
+part1.Competitor number 111, name Emily Brown, aged 24. Emily is a novice and received these scores: [1, 4, 2, 5, 3]This gives him an overall score of 3.0.
+part1.Competitor number 112, name Daniel Davis, aged 28. Daniel is a intermediate and received these scores: [5, 3, 4, 2, 5]This gives him an overall score of 11.4.
+part1.Competitor number 113, name Jessica Miller, aged 26. Jessica is a intermediate and received these scores: [2, 1, 5, 4, 2]This gives him an overall score of 8.4.
+part1.Competitor number 114, name Matthew Wilson, aged 30. Matthew is a expert and received these scores: [5, 3, 1, 4, 4]This gives him an overall score of 17.0.
+part1.Competitor number 115, name Amanda Moore, aged 25. Amanda is a expert and received these scores: [2, 5, 4, 1, 1]This gives him an overall score of 13.0.
+part1.Competitor number 116, name Andrew Taylor, aged 27. Andrew is a expert and received these scores: [4, 2, 3, 5, 3]This gives him an overall score of 17.0.
+part1.Competitor number 117, name Elizabeth Anderson, aged 22. Elizabeth is a expert and received these scores: [1, 4, 5, 3, 5]This gives him an overall score of 18.0.
+part1.Competitor number 118, name Robert Thomas, aged 29. Robert is a expert and received these scores: [3, 1, 2, 5, 2]This gives him an overall score of 13.0.
+part1.Competitor number 119, name Natalie Jackson, aged 26. Natalie is a expert and received these scores: [1, 3, 5, 2, 4]This gives him an overall score of 15.0.
+part1.Competitor number 120, name Justin White, aged 28. Justin is a expert and received these scores: [4, 2, 1, 3, 1]This gives him an overall score of 11.0.
+part1.Competitor number 121, name Steven King, aged 30. Steven is a novice and received these scores: [1, 3, 5, 2, 4]This gives him an overall score of 3.0.
+part1.Competitor number 122, name Carol Wright, aged 25. Carol is a novice and received these scores: [5, 1, 2, 3, 1]This gives him an overall score of 2.4.
+part1.Competitor number 123, name Paul Lopez, aged 28. Paul is a intermediate and received these scores: [3, 5, 4, 1, 5]This gives him an overall score of 10.8.
+part1.Competitor number 124, name Sharon Hill, aged 26. Sharon is a intermediate and received these scores: [4, 3, 1, 5, 2]This gives him an overall score of 9.0.
+part1.Competitor number 125, name Philip Scott, aged 30. Philip is a expert and received these scores: [2, 4, 5, 3, 3]This gives him an overall score of 17.0.
+part1.Competitor number 126, name Nancy Green, aged 24. Nancy is a expert and received these scores: [1, 2, 3, 4, 4]This gives him an overall score of 14.0.
+part1.Competitor number 127, name Betty Adams, aged 27. Betty is a expert and received these scores: [5, 4, 1, 2, 5]This gives him an overall score of 17.0.
+part1.Competitor number 128, name Dennis Baker, aged 29. Dennis is a expert and received these scores: [3, 5, 2, 1, 1]This gives him an overall score of 12.0.
+part1.Competitor number 129, name Sandra Gonzalez, aged 28. Sandra is a expert and received these scores: [4, 3, 5, 1, 2]This gives him an overall score of 15.0.
+part1.Competitor number 130, name Ashley Nelson, aged 25. Ashley is a expert and received these scores: [2, 1, 4, 3, 3]This gives him an overall score of 13.0.
+
+The person with the highest score is Michael Davis with a score of 25.0
+
+Total competitors: 31
+
+Average score: 12.903225806451612
+
+Minimum score: 2.4
+
+Maximum score: 25.0
+
+Score frequency: 0:0 1:23 2:20 3:31 4:43 5:38 
